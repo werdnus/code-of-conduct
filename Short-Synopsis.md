@@ -1,16 +1,12 @@
-## **Code of Conduct:_ Short Synopsis_**
-
+## Code of Conduct: _Short Synopsis_
 
 ### Key Principles 
 
 This Code is precedent upon three key principles, from which all else follows. These are:
 
-
-
 1. **Truth:** we are scientists, so we strive for honesty in research and interpersonal interactions.  
 2. **Respect:** we recognize that we all deserve respect, so we strive to give it.
 3. **Inclusion:** we see the strength in diversity, and thus are committed to inclusion.
-
 
 ### Commitments & Challenges
 
