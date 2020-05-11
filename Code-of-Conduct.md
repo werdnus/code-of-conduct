@@ -36,8 +36,6 @@ These priorities and commitments form the basis of sound working relationships b
 
 We acknowledge the following unique challenges presented by this Inter-Institutional Fieldwork project, which we are about to undertake:
 
-
-
 *   Remote and physically taxing field conditions;
 *   Physically close working and living conditions;
 *   Porous and organic boundaries between work and personal time;
@@ -53,8 +51,6 @@ The field portion of the project which we are about to undertake will require un
 
 To that end, **we will not tolerate any form of harassment or sexual misconduct**. Because every person’s relationship with drugs and alcohol is different, and some are better at managing that relationship than others, **there will be no alcohol or other drugs permitted during fieldwork** or the course of other project activities, even in cases where it would be legally permissible. In the intensive field conditions under which we will be operating during this project, the following behaviors are completely inappropriate:
 
-
-
 *   Sexual misconduct of any kind;
 *   Sexual or gender-based harassment of any kind;
 *   Discriminatory harassment of any kind;
@@ -68,42 +64,33 @@ To that end, **we will not tolerate any form of harassment or sexual misconduct*
 
 ## Specific sections 
 
-
 ### Definitions
 
 We offer the following definitions, to make clear some of the boundaries that will be necessary to maintain during this project:
 
+   **Workplace:** For the duration of fieldwork, the workplace includes all shared spaces, environments, and infrastructure, including but not limited to kitchens, sleeping quarters, common areas, laboratories, field research sites, trails and walkways, and any other location where it might reasonably be expected that a members of the crew could interact with one another. 
 
-    **Workplace:** For the duration of fieldwork, the workplace includes all shared spaces, environments, and infrastructure, including but not limited to kitchens, sleeping quarters, common areas, laboratories, field research sites, trails and walkways, and any other location where it might reasonably be expected that a members of the crew could interact with one another. 
+   **Personal space:** Any location where a crew member can reasonably be said to have ownership of that space, such as personal tents or bedrooms. It should be noted that in many instances of remote field work, crew members may not have access to personal space (e.g., when bedrooms are shared, that space cannot be reasonably said to be owned by only one crew member, and is thus considered part of the workplace). 
 
+   **Working relationship:** During fieldwork, much as all shared spaces are considered part of the workplace, all relationships with other crew members, field assistants and guides, field station staff, and other people working to aid the research endeavor, should explicitly be considered working relationships. In the close confines of fieldwork, it is impossible to have a relationship that is purely personal, because each crew member is representing the project at all times. This should be kept in mind: even interactions that happen late in the evening, when no work activities are happening, are interactions between co-workers, and should be treated as such, with all due consideration and respect. 
 
-    **Personal space:** Any location where a crew member can reasonably be said to have ownership of that space, such as personal tents or bedrooms. It should be noted that in many instances of remote field work, crew members may not have access to personal space (e.g., when bedrooms are shared, that space cannot be reasonably said to be owned by only one crew member, and is thus considered part of the workplace). 
-
-
-    **Working relationship:** During fieldwork, much as all shared spaces are considered part of the workplace, all relationships with other crew members, field assistants and guides, field station staff, and other people working to aid the research endeavor, should explicitly be considered working relationships. In the close confines of fieldwork, it is impossible to have a relationship that is purely personal, because each crew member is representing the project at all times. This should be kept in mind: even interactions that happen late in the evening, when no work activities are happening, are interactions between co-workers, and should be treated as such, with all due consideration and respect. 
-
-
-    For **sexual misconduct**, **sexual and gender-based harassment**, and **discriminatory harassment**, see the below (_Sexual Misconduct & Sexual/Gender-based Harassment_). 
+   For **sexual misconduct**, **sexual and gender-based harassment**, and **discriminatory harassment**, see the below (_Sexual Misconduct & Sexual/Gender-based Harassment_). 
 
 
 ### Research Ethics in the Field
 
 Following from our key principles, we will approach our research with ethics and integrity. We will carefully consider the impacts of our research, both immediate and long-term, on the sites, organisms, and peoples involved, directly or tangentially. It is paramount to consider the implications and motivations of our research, and to craft our study designs in ways that minimize harm, be it to particular people or the global community. This is a particularly grave concern for research involving **human subjects**. Here, we commit to certain best practices for engaging in field research: 
 
-
-
-1. **IRB Approval. **Any research with human subjects must reflect a thoughtful and culturally appropriate consideration of the effects of the inquiry on the participants, and should, in general, include a clear process for obtaining informed consent from participants. To that end, **all human subjects research must be approved by an Office for Human Research Protections (OHRP) accredited Institutional Review Board (IRB)**. If it is unclear which institution’s IRB has authority over approving the human subjects research, the project should pursue approval through the Ethics Partner Institution (see below, Re_porting Potential Violations & Addressing Concerns_). This policy does not replace or supersede the policies of whatever home institution the human subjects research originates at, but complements such policies. 
-2. **Local Laws. **It should also be noted that countries or localities in which human subjects research is carried out may have particular permitting and ethical regulations. We are committed to respectful treatment of our hosts, both locally and nationally, while engaged in fieldwork, and this includes **honoring local laws and customs with respect to research norms and practices.** This may include things like required permits that are not standard in our own countries (e.g., sample mobilization permits, or export permits), deposition of samples or sample duplicates in local natural history or medical collections, and many other things. It is our responsibility to determine the requirements of research in a particular location before we undertake such research. 
+1. **IRB Approval.** Any research with human subjects must reflect a thoughtful and culturally appropriate consideration of the effects of the inquiry on the participants, and should, in general, include a clear process for obtaining informed consent from participants. To that end, **all human subjects research must be approved by an Office for Human Research Protections (OHRP) accredited Institutional Review Board (IRB)**. If it is unclear which institution’s IRB has authority over approving the human subjects research, the project should pursue approval through the Ethics Partner Institution (see below, Re_porting Potential Violations & Addressing Concerns_). This policy does not replace or supersede the policies of whatever home institution the human subjects research originates at, but complements such policies. 
+2. **Local Laws.** It should also be noted that countries or localities in which human subjects research is carried out may have particular permitting and ethical regulations. We are committed to respectful treatment of our hosts, both locally and nationally, while engaged in fieldwork, and this includes **honoring local laws and customs with respect to research norms and practices.** This may include things like required permits that are not standard in our own countries (e.g., sample mobilization permits, or export permits), deposition of samples or sample duplicates in local natural history or medical collections, and many other things. It is our responsibility to determine the requirements of research in a particular location before we undertake such research. 
 3. **Fair Treatment.** Often, in isolated field settings we are working with field guides, parabiologists, or other local people helping to ensure that our research is a success, such as cooks, housekeepers, muleskinners, porters, and other skilled and unskilled laborers. We acknowledge that **we would not be able to engage in research without such help**, and are thus committed to fair treatment of people involved in our research, regardless of their status as group members. Fair treatment involves fair compensation, appropriate to local norms, for services provided. We will allocate project resources in a way that prevents the frequent dynamic of research as an extractionist activity, moving knowledge and other resources from developing to developed countries. Additionally, we are committed to ensuring that the products of our research are available to those closest to that research. 
-4. **Conflicts of Interest. **Should any conflicts of interest arise, **the interests of the communities within which the research takes place will take precedence over all other considerations,** including the success of the project. This is particularly important to consider in cases where research involves human subjects. If the study has negative repercussions for any members of the target culture, the project cannot be considered a success. We must do everything in our power to protect the dignity and privacy of the people with whom we conduct this field study.
-5. **Honest Representation. **We will **not misrepresent the work of others as our own work**, either in speaking or writing. We will give full credit to all those who have contributed to our work.
+4. **Conflicts of Interest.** Should any conflicts of interest arise, **the interests of the communities within which the research takes place will take precedence over all other considerations,** including the success of the project. This is particularly important to consider in cases where research involves human subjects. If the study has negative repercussions for any members of the target culture, the project cannot be considered a success. We must do everything in our power to protect the dignity and privacy of the people with whom we conduct this field study.
+5. **Honest Representation.** We will **not misrepresent the work of others as our own work**, either in speaking or writing. We will give full credit to all those who have contributed to our work.
 
 Extra care must be taken with human subjects research. In such cases we will ensure that: 
 
-
-
 1. The right of those providing information to researchers either **to remain anonymous or to receive recognition** is to be respected and defended. It is our responsibility to make every effort to determine the preferences of those providing information and to comply with their wishes. It should be made clear to anyone providing information that despite our best intentions and efforts, anonymity may be compromised or recognition may fail to materialize. Additionally, we should strive never to reveal the identity of groups or persons whose anonymity is protected through the use of pseudonyms, either accidentally or purposefully.
-2. We are candid from the outset in the communities where we work about the nature of our research, our identities, and our goals. The** aims of our study project should be clearly communicated to those among whom we work** at the onset of research. We must acknowledge the help and services we receive, and we must recognize our obligation to reciprocate in culturally appropriate ways. We will take into account and, where relevant and to the best of our ability, make explicit the extent to which our own personal and cultural values affect the project. We have an obligation to assess both the positive and negative consequences of our field work. We will do our best to anticipate any possible consequences, and to inform individuals and groups likely to be affected. 
+2. We are candid from the outset in the communities where we work about the nature of our research, our identities, and our goals. The **aims of our study project should be clearly communicated to those among whom we work** at the onset of research. We must acknowledge the help and services we receive, and we must recognize our obligation to reciprocate in culturally appropriate ways. We will take into account and, where relevant and to the best of our ability, make explicit the extent to which our own personal and cultural values affect the project. We have an obligation to assess both the positive and negative consequences of our field work. We will do our best to anticipate any possible consequences, and to inform individuals and groups likely to be affected. 
 
 
 ### Gender-Identity and Expression
@@ -114,22 +101,18 @@ We recognize that we are all products of our lived experience, and as such that 
 
 Given the above, we provide these guiding principles and policies to help everyone in the group treat each other with the respect for the diversity of the group that is deserved: 
 
-
-
 1. **Privacy.** All group members have the right to discuss any aspect of their identity openly, or to keep that information private. In particular, transgender and gender-nonconforming group members’ gender identity or expression are theirs to discuss, or not, at their choosing. Each member of the group gets to decide when, with whom, and how much to share their private information. Information about a person’s transgender status (such as the sex they were assigned at birth) can constitute confidential medical information under privacy laws like HIPAA.
 
     Project leadership and all crew members with formal or informal authority should _not_ disclose information that may reveal a crew member’s personal information (including transgender status or gender non-conforming presentation) to others. That kind of personal or confidential information may only be shared with the crew member in question’s consent.
 
-2. **Names & Pronouns. **Every crew member has the right to be addressed by the name and pronoun that correspond to their gender identity, upon request. A court-ordered name or gender change is_ not_ required. The intentional or persistent refusal to respect any crew member’s gender identity (for example, intentionally referring to someone by a name or pronoun that does not correspond to that person’s gender identity) can constitute harassment and is a violation of this policy. If you are unsure what pronoun a transitioning or gender non-conforming crew member might prefer, you can politely ask how they would like to be addressed. We recommend attempting to cultivate gender-neutral language (e.g., singular _they_), using a person’s name in place of pronouns if you are unsure and cannot ask, and practicing regularly with pronouns you struggle to remember, to avoid mistakes and encourage respect between all group members.
-3. **Sex-segregated Facilities & Activities. **For sex-segregated tasks and the use of sex-segregated facilities, transgender crew members will be classified and assigned in a manner **consistent with their gender identity**, not their sex assigned at birth. 
+2. **Names & Pronouns.** Every crew member has the right to be addressed by the name and pronoun that correspond to their gender identity, upon request. A court-ordered name or gender change is_ not_ required. The intentional or persistent refusal to respect any crew member’s gender identity (for example, intentionally referring to someone by a name or pronoun that does not correspond to that person’s gender identity) can constitute harassment and is a violation of this policy. If you are unsure what pronoun a transitioning or gender non-conforming crew member might prefer, you can politely ask how they would like to be addressed. We recommend attempting to cultivate gender-neutral language (e.g., singular _they_), using a person’s name in place of pronouns if you are unsure and cannot ask, and practicing regularly with pronouns you struggle to remember, to avoid mistakes and encourage respect between all group members.
+3. **Sex-segregated Facilities & Activities.** For sex-segregated tasks and the use of sex-segregated facilities, transgender crew members will be classified and assigned in a manner **consistent with their gender identity**, not their sex assigned at birth. 
 
     Crew members shall have access to the restroom corresponding to their gender identity. Any crew member who has a need or desire for increased privacy, regardless of the underlying reason, will be provided access to a single-stall restroom, when available; no crew member, however, shall be required to use such a restroom. All crew members have a right to safe and appropriate restroom facilities, including the right to use a restroom that corresponds to the crew member’s gender identity, regardless of the crew member’s sex assigned at birth. That is, transgender women must be permitted to use the women’s restroom, and transgender men must be permitted to use the men’s restroom. 
 
-
     The decision of how to sort into sex-segregated spaces and activities should be left to the transgender or gender non-conforming crew member to determine the most appropriate and safest option for them. Their decision will be respected by the project leadership, and the entire crew. 
 
-
-**Discrimination/Harassment. **We will not tolerate any form of discrimination or harassment (including sexual harassment) based on gender identity or expression. Such conduct is a violation of this Code; any incident of discrimination, harassment, or violence based on gender identity or expression will be given immediate and effective attention (see below, **Sexual Misconduct & Sexual/Gender-based Harassment**). 
+**Discrimination/Harassment.** We will not tolerate any form of discrimination or harassment (including sexual harassment) based on gender identity or expression. Such conduct is a violation of this Code; any incident of discrimination, harassment, or violence based on gender identity or expression will be given immediate and effective attention (see below, **Sexual Misconduct & Sexual/Gender-based Harassment**). 
 
 
 ### Sexual Misconduct & Sexual/Gender-based Harassment
@@ -146,15 +129,12 @@ We are committed to** a fair process** in all investigations and resolutions rel
 
 **_Sexual harassment_** is defined as:
 
+   Any sexual advance, any request for sexual favors, or other verbal or physical conduct of a sexual nature, when: 
 
-    Any sexual advance, any request for sexual favors, or other verbal or physical conduct of a sexual nature, when: 
-
-
-
-1. submission to such advances, requests, or conduct is made either explicitly or implicitly a term or condition of an individual’s continuation with the project or evaluation of their performance within the project, including but not limited to employment or academic experience; or 
-2. submission to or rejection of such advances, requests, or conduct by an individual is used as a basis or condition for employment or academic decisions affecting such individual, including continuation with the project or evaluation of their performance within the project; or 
-3. such conduct is unwelcome and sufficiently severe or pervasive that it interferes with work or academic performance because it has created an intimidating, hostile, or offensive working or academic environment for the individual who is the object of such conduct. 
-4. Sexual harassment includes sexual misconduct (_see below_), sex and gender-based stalking, sex and gender-based harassment and bullying, dating violence, and domestic violence. Sexual harassment may be committed by any person upon any other person, regardless of the sex, gender, sexual orientation, and/or gender identity of those involved. In addition to sexual misconduct, as defined in the Student Conduct Code, sexual harassment is defined as follows:
+   a. submission to such advances, requests, or conduct is made either explicitly or implicitly a term or condition of an individual’s continuation with the project or evaluation of their performance within the project, including but not limited to employment or academic experience; or 
+   b. submission to or rejection of such advances, requests, or conduct by an individual is used as a basis or condition for employment or academic decisions affecting such individual, including continuation with the project or evaluation of their performance within the project; or 
+   c. such conduct is unwelcome and sufficiently severe or pervasive that it interferes with work or academic performance because it has created an intimidating, hostile, or offensive working or academic environment for the individual who is the object of such conduct. 
+   d. Sexual harassment includes sexual misconduct (_see below_), sex and gender-based stalking, sex and gender-based harassment and bullying, dating violence, and domestic violence. Sexual harassment may be committed by any person upon any other person, regardless of the sex, gender, sexual orientation, and/or gender identity of those involved. In addition to sexual misconduct, as defined in the Student Conduct Code, sexual harassment is defined as follows:
 
 **_Sexual misconduct_** is defined as: 
 
