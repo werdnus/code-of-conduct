@@ -112,7 +112,7 @@ Given the above, we provide these guiding principles and policies to help everyo
 
     The decision of how to sort into sex-segregated spaces and activities should be left to the transgender or gender non-conforming crew member to determine the most appropriate and safest option for them. Their decision will be respected by the project leadership, and the entire crew. 
 
-**Discrimination/Harassment.** We will not tolerate any form of discrimination or harassment (including sexual harassment) based on gender identity or expression. Such conduct is a violation of this Code; any incident of discrimination, harassment, or violence based on gender identity or expression will be given immediate and effective attention (see below, **Sexual Misconduct & Sexual/Gender-based Harassment**). 
+**Discrimination/Harassment.** We will not tolerate any form of discrimination or harassment (including sexual harassment) based on gender identity or expression. Such conduct is a violation of this Code; any incident of discrimination, harassment, or violence based on gender identity or expression will be given immediate and effective attention (see below, [**Sexual Misconduct & Sexual/Gender-based Harassment**](https://github.com/werdnus/code-of-conduct/blob/readme-edits/Code-of-Conduct.md#sexual-misconduct--sexualgender-based-harassment)). 
 
 
 ### Sexual Misconduct & Sexual/Gender-based Harassment
@@ -123,18 +123,21 @@ We are committed to fostering a research and field experience that is free of al
 
 In cases where there is suspected or alleged sexual misconduct of any form, we are committed to a process that is **victim-directed**. Sexual and gender-based harassment and violence, no matter the form it takes, is an alienating experience for the victim, and often removes their sense of agency and control of their environment and choices. We seek to counter this by giving as much control as possible back to victims at each step of the process. We will do everything in our power to provide access to reasonable resources, including advocacy, medical treatment, emotional support, assistance with impacted research tasks, and aid in initiation of any desired legal proceedings, such as arbitration or restraining orders. We will also provide clear and complete explanations of options, decisions, and actions. 
 
-We recognize that regardless of circumstances (including use of drugs/alcohol, previous relationships, style of dress, and sexual history), there is no excuse for non-consensual sexual activity. As such, all investigations and resolutions of sexual misconduct instances will be **focused on offender behavior **in relation to clear definitions of prohibited conduct.
+We recognize that regardless of circumstances (including use of drugs/alcohol, previous relationships, style of dress, and sexual history), there is no excuse for non-consensual sexual activity. As such, all investigations and resolutions of sexual misconduct instances will be **focused on offender behavior** in relation to clear definitions of prohibited conduct.
 
-We are committed to** a fair process** in all investigations and resolutions related to sexual misconduct in all of its myriad forms. Clearly defined prohibited conduct relating to sexual misconduct—in all its forms—will serve as the basis for all determinations of responsibility and appropriate sanctions.
+We are committed to **a fair process** in all investigations and resolutions related to sexual misconduct in all of its myriad forms. Clearly defined prohibited conduct relating to sexual misconduct—in all its forms—will serve as the basis for all determinations of responsibility and appropriate sanctions.
 
 **_Sexual harassment_** is defined as:
 
    Any sexual advance, any request for sexual favors, or other verbal or physical conduct of a sexual nature, when: 
 
-   a. submission to such advances, requests, or conduct is made either explicitly or implicitly a term or condition of an individual’s continuation with the project or evaluation of their performance within the project, including but not limited to employment or academic experience; or 
-   b. submission to or rejection of such advances, requests, or conduct by an individual is used as a basis or condition for employment or academic decisions affecting such individual, including continuation with the project or evaluation of their performance within the project; or 
-   c. such conduct is unwelcome and sufficiently severe or pervasive that it interferes with work or academic performance because it has created an intimidating, hostile, or offensive working or academic environment for the individual who is the object of such conduct. 
-   d. Sexual harassment includes sexual misconduct (_see below_), sex and gender-based stalking, sex and gender-based harassment and bullying, dating violence, and domestic violence. Sexual harassment may be committed by any person upon any other person, regardless of the sex, gender, sexual orientation, and/or gender identity of those involved. In addition to sexual misconduct, as defined in the Student Conduct Code, sexual harassment is defined as follows:
+>a. submission to such advances, requests, or conduct is made either explicitly or implicitly a term or condition of an individual’s continuation with the project or evaluation of their performance within the project, including but not limited to employment or academic experience; or 
+   
+>b. submission to or rejection of such advances, requests, or conduct by an individual is used as a basis or condition for employment or academic decisions affecting such individual, including continuation with the project or evaluation of their performance within the project; or 
+
+>c. such conduct is unwelcome and sufficiently severe or pervasive that it interferes with work or academic performance because it has created an intimidating, hostile, or offensive working or academic environment for the individual who is the object of such conduct. 
+
+>d. Sexual harassment includes sexual misconduct (_see below_), sex and gender-based stalking, sex and gender-based harassment and bullying, dating violence, and domestic violence. Sexual harassment may be committed by any person upon any other person, regardless of the sex, gender, sexual orientation, and/or gender identity of those involved. In addition to sexual misconduct, as defined in the Student Conduct Code, sexual harassment is defined as follows:
 
 **_Sexual misconduct_** is defined as: 
 
