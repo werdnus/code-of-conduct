@@ -147,8 +147,8 @@ We are committed to **a fair process** in all investigations and resolutions rel
 >    1. Without having first obtained Explicit Consent; or
 >    2. When he or she knows or should have known the person was incapable of explicit consent by reason of Mental Disorder, Mental Incapacitation, or Physical Helplessness.
 >2. Unwanted Penetration is Penetration of another person, or causing the Penetration of another person, when one:
->    3. Does not first obtain Explicit Consent from that person; or
->    4. Knows or should have known the person was incapable of explicit consent by reason of Mental Disorder, Mental Incapacitation, or Physical Helplessness.
+>    1. Does not first obtain Explicit Consent from that person; or
+>    2. Knows or should have known the person was incapable of explicit consent by reason of Mental Disorder, Mental Incapacitation, or Physical Helplessness.
 >3. Sexual advances, requests for sexual favors, and other verbal or physical conduct of a sexual nature that is unwelcome and sufficiently severe or pervasive that interferes with work or access to educational benefits and opportunities because it has created an intimidating, hostile, or degrading environment and would have such an effect on a reasonable person.
 
 **Discriminatory harassment** is defined as:
