@@ -68,13 +68,13 @@ To that end, **we will not tolerate any form of harassment or sexual misconduct*
 
 We offer the following definitions, to make clear some of the boundaries that will be necessary to maintain during this project:
 
-   **Workplace:** For the duration of fieldwork, the workplace includes all shared spaces, environments, and infrastructure, including but not limited to kitchens, sleeping quarters, common areas, laboratories, field research sites, trails and walkways, and any other location where it might reasonably be expected that a members of the crew could interact with one another. 
+**Workplace:** For the duration of fieldwork, the workplace includes all shared spaces, environments, and infrastructure, including but not limited to kitchens, sleeping quarters, common areas, laboratories, field research sites, trails and walkways, and any other location where it might reasonably be expected that a members of the crew could interact with one another. 
 
-   **Personal space:** Any location where a crew member can reasonably be said to have ownership of that space, such as personal tents or bedrooms. It should be noted that in many instances of remote field work, crew members may not have access to personal space (e.g., when bedrooms are shared, that space cannot be reasonably said to be owned by only one crew member, and is thus considered part of the workplace). 
+**Personal space:** Any location where a crew member can reasonably be said to have ownership of that space, such as personal tents or bedrooms. It should be noted that in many instances of remote field work, crew members may not have access to personal space (e.g., when bedrooms are shared, that space cannot be reasonably said to be owned by only one crew member, and is thus considered part of the workplace). 
 
-   **Working relationship:** During fieldwork, much as all shared spaces are considered part of the workplace, all relationships with other crew members, field assistants and guides, field station staff, and other people working to aid the research endeavor, should explicitly be considered working relationships. In the close confines of fieldwork, it is impossible to have a relationship that is purely personal, because each crew member is representing the project at all times. This should be kept in mind: even interactions that happen late in the evening, when no work activities are happening, are interactions between co-workers, and should be treated as such, with all due consideration and respect. 
+**Working relationship:** During fieldwork, much as all shared spaces are considered part of the workplace, all relationships with other crew members, field assistants and guides, field station staff, and other people working to aid the research endeavor, should explicitly be considered working relationships. In the close confines of fieldwork, it is impossible to have a relationship that is purely personal, because each crew member is representing the project at all times. This should be kept in mind: even interactions that happen late in the evening, when no work activities are happening, are interactions between co-workers, and should be treated as such, with all due consideration and respect. 
 
-   For **sexual misconduct**, **sexual and gender-based harassment**, and **discriminatory harassment**, see the below (_Sexual Misconduct & Sexual/Gender-based Harassment_). 
+For **sexual misconduct**, **sexual and gender-based harassment**, and **discriminatory harassment**, see the below (_Sexual Misconduct & Sexual/Gender-based Harassment_). 
 
 
 ### Research Ethics in the Field
@@ -141,25 +141,23 @@ We are committed to **a fair process** in all investigations and resolutions rel
 
 **_Sexual misconduct_** is defined as: 
 
-Any single or repeated episode of (a) nonconsensual personal contact, (b) unwanted penetration, or (c) unwelcome sexual advance. Any single episode of any of these behaviors can be sufficient for a finding of sexual misconduct. Those behaviors are, specifically: 
-
-1. Nonconsensual personal contact occurs when a person subjects another person to contact of a sexual nature when a reasonable person would know that such contact would cause emotional distress:
-    1. Without having first obtained Explicit Consent; or
-    2. When he or she knows or should have known the person was incapable of explicit consent by reason of Mental Disorder, Mental Incapacitation, or Physical Helplessness.
-2. Unwanted Penetration is Penetration of another person, or causing the Penetration of another person, when one:
-    3. Does not first obtain Explicit Consent from that person; or
-    4. Knows or should have known the person was incapable of explicit consent by reason of Mental Disorder, Mental Incapacitation, or Physical Helplessness.
-3. Sexual advances, requests for sexual favors, and other verbal or physical conduct of a sexual nature that is unwelcome and sufficiently severe or pervasive that interferes with work or access to educational benefits and opportunities because it has created an intimidating, hostile, or degrading environment and would have such an effect on a reasonable person.
+>Any single or repeated episode of (a) nonconsensual personal contact, (b) unwanted penetration, or (c) unwelcome sexual advance. Any single episode of any of these behaviors can be sufficient for a finding of sexual misconduct. Those behaviors are, specifically: 
+>
+>1. Nonconsensual personal contact occurs when a person subjects another person to contact of a sexual nature when a reasonable person would know that such contact would cause emotional distress:
+>    1. Without having first obtained Explicit Consent; or
+>    2. When he or she knows or should have known the person was incapable of explicit consent by reason of Mental Disorder, Mental Incapacitation, or Physical Helplessness.
+>2. Unwanted Penetration is Penetration of another person, or causing the Penetration of another person, when one:
+>    3. Does not first obtain Explicit Consent from that person; or
+>    4. Knows or should have known the person was incapable of explicit consent by reason of Mental Disorder, Mental Incapacitation, or Physical Helplessness.
+>3. Sexual advances, requests for sexual favors, and other verbal or physical conduct of a sexual nature that is unwelcome and sufficiently severe or pervasive that interferes with work or access to educational benefits and opportunities because it has created an intimidating, hostile, or degrading environment and would have such an effect on a reasonable person.
 
 **Discriminatory harassment** is defined as:
 
-This is conduct that unreasonably discriminates among individuals on the basis of race, color, sex, gender, national origin, age, religion, marital status, disability, veteran status, sexual orientation, gender identity, or gender expression, and that is sufficiently severe or pervasive that it interferes with work or academic performance. Discriminatory harassment includes, but is not limited to: 
-
-
-
-1. Racial harassment, which is conduct that disparages, ridicules, or is physically abusive of a person based on that person’s race; 
-2. Gender-based harassment, which is conduct that disparages, ridicules, or is physically abusive of a person based on that person’s sex, gender, gender identity, gender presentation, or gender expression;
-3. Sexual harassment, defined above.
+>This is conduct that unreasonably discriminates among individuals on the basis of race, color, sex, gender, national origin, age, religion, marital status, disability, veteran status, sexual orientation, gender identity, or gender expression, and that is sufficiently severe or pervasive that it interferes with work or academic performance. Discriminatory harassment includes, but is not limited to: 
+>
+>1. Racial harassment, which is conduct that disparages, ridicules, or is physically abusive of a person based on that person’s race; 
+>2. Gender-based harassment, which is conduct that disparages, ridicules, or is physically abusive of a person based on that person’s sex, gender, gender identity, gender presentation, or gender expression;
+>3. Sexual harassment, defined above.
 
 See below (sections _Reporting Potential Violations_ and _Addressing Concerns_) for guidelines on appropriate action if you believe that you or someone else in the group is the victim of sexual misconduct or sexual/gender-based harassment. Any crew member making good faith reports under this policy, or participating in investigation (internal or external) initiated under this policy, will be protected from retaliation for such reporting or participation.
 
