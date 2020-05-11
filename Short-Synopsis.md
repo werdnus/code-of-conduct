@@ -61,3 +61,8 @@ When a suspected violation has been reported, an investigation will take place. 
 ## Outcomes and Sanctions
 
 Outcomes of any investigation will be directed towards **supporting victims** and **preventing recurrence** of the issue. **Sanctions** can include everything from **official reprimand** up to and including **removal from the project** entirely and **prohibition from future collaboration**. 
+
+
+## Agreement
+
+Agreement to this Code of Conduct is a requirement for participating in the project. We all sign to indicate our agreement. 
