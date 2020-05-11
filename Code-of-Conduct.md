@@ -129,22 +129,19 @@ We are committed to **a fair process** in all investigations and resolutions rel
 
 **_Sexual harassment_** is defined as:
 
-   Any sexual advance, any request for sexual favors, or other verbal or physical conduct of a sexual nature, when: 
-
->a. submission to such advances, requests, or conduct is made either explicitly or implicitly a term or condition of an individual’s continuation with the project or evaluation of their performance within the project, including but not limited to employment or academic experience; or 
-   
->b. submission to or rejection of such advances, requests, or conduct by an individual is used as a basis or condition for employment or academic decisions affecting such individual, including continuation with the project or evaluation of their performance within the project; or 
-
->c. such conduct is unwelcome and sufficiently severe or pervasive that it interferes with work or academic performance because it has created an intimidating, hostile, or offensive working or academic environment for the individual who is the object of such conduct. 
-
->d. Sexual harassment includes sexual misconduct (_see below_), sex and gender-based stalking, sex and gender-based harassment and bullying, dating violence, and domestic violence. Sexual harassment may be committed by any person upon any other person, regardless of the sex, gender, sexual orientation, and/or gender identity of those involved. In addition to sexual misconduct, as defined in the Student Conduct Code, sexual harassment is defined as follows:
+>Any sexual advance, any request for sexual favors, or other verbal or physical conduct of a sexual nature, when: 
+>
+>1. submission to such advances, requests, or conduct is made either explicitly or implicitly a term or condition of an individual’s continuation with the project or evaluation of their performance within the project, including but not limited to employment or academic experience; or 
+>   
+>2. submission to or rejection of such advances, requests, or conduct by an individual is used as a basis or condition for employment or academic decisions affecting such individual, including continuation with the project or evaluation of their performance within the project; or 
+>
+>3. such conduct is unwelcome and sufficiently severe or pervasive that it interferes with work or academic performance because it has created an intimidating, hostile, or offensive working or academic environment for the individual who is the object of such conduct. 
+>
+>4. Sexual harassment includes sexual misconduct (_see below_), sex and gender-based stalking, sex and gender-based harassment and bullying, dating violence, and domestic violence. Sexual harassment may be committed by any person upon any other person, regardless of the sex, gender, sexual orientation, and/or gender identity of those involved. In addition to sexual misconduct, as defined in the Student Conduct Code, sexual harassment is defined as follows:
 
 **_Sexual misconduct_** is defined as: 
 
-
-    Any single or repeated episode of (a) nonconsensual personal contact, (b) unwanted penetration, or (c) unwelcome sexual advance. Any single episode of any of these behaviors can be sufficient for a finding of sexual misconduct. Those behaviors are, specifically: 
-
-
+Any single or repeated episode of (a) nonconsensual personal contact, (b) unwanted penetration, or (c) unwelcome sexual advance. Any single episode of any of these behaviors can be sufficient for a finding of sexual misconduct. Those behaviors are, specifically: 
 
 1. Nonconsensual personal contact occurs when a person subjects another person to contact of a sexual nature when a reasonable person would know that such contact would cause emotional distress:
     1. Without having first obtained Explicit Consent; or
@@ -156,8 +153,7 @@ We are committed to **a fair process** in all investigations and resolutions rel
 
 **Discriminatory harassment** is defined as:
 
-
-    This is conduct that unreasonably discriminates among individuals on the basis of race, color, sex, gender, national origin, age, religion, marital status, disability, veteran status, sexual orientation, gender identity, or gender expression, and that is sufficiently severe or pervasive that it interferes with work or academic performance. Discriminatory harassment includes, but is not limited to: 
+This is conduct that unreasonably discriminates among individuals on the basis of race, color, sex, gender, national origin, age, religion, marital status, disability, veteran status, sexual orientation, gender identity, or gender expression, and that is sufficiently severe or pervasive that it interferes with work or academic performance. Discriminatory harassment includes, but is not limited to: 
 
 
 
