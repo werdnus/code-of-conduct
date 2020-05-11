@@ -112,7 +112,7 @@ Given the above, we provide these guiding principles and policies to help everyo
 
     The decision of how to sort into sex-segregated spaces and activities should be left to the transgender or gender non-conforming crew member to determine the most appropriate and safest option for them. Their decision will be respected by the project leadership, and the entire crew. 
 
-**Discrimination/Harassment.** We will not tolerate any form of discrimination or harassment (including sexual harassment) based on gender identity or expression. Such conduct is a violation of this Code; any incident of discrimination, harassment, or violence based on gender identity or expression will be given immediate and effective attention (see below, [**Sexual Misconduct & Sexual/Gender-based Harassment**](https://github.com/werdnus/code-of-conduct/blob/readme-edits/Code-of-Conduct.md#sexual-misconduct--sexualgender-based-harassment)). 
+**Discrimination/Harassment.** We will not tolerate any form of discrimination or harassment (including sexual harassment) based on gender identity or expression. Such conduct is a violation of this Code; any incident of discrimination, harassment, or violence based on gender identity or expression will be given immediate and effective attention (see below, [**Sexual Misconduct & Sexual/Gender-based Harassment**](https://github.com/werdnus/code-of-conduct/blob/master/Code-of-Conduct.md#sexual-misconduct--sexualgender-based-harassment)). 
 
 
 ### Sexual Misconduct & Sexual/Gender-based Harassment
@@ -159,27 +159,24 @@ We are committed to **a fair process** in all investigations and resolutions rel
 >2. Gender-based harassment, which is conduct that disparages, ridicules, or is physically abusive of a person based on that person’s sex, gender, gender identity, gender presentation, or gender expression;
 >3. Sexual harassment, defined above.
 
-See below (sections _Reporting Potential Violations_ and _Addressing Concerns_) for guidelines on appropriate action if you believe that you or someone else in the group is the victim of sexual misconduct or sexual/gender-based harassment. Any crew member making good faith reports under this policy, or participating in investigation (internal or external) initiated under this policy, will be protected from retaliation for such reporting or participation.
+See below (sections [_Reporting Potential Violations_ and _Addressing Concerns_](https://github.com/werdnus/code-of-conduct/blob/master/Code-of-Conduct.md#reporting-potential-violations--addressing-concerns)) for guidelines on appropriate action if you believe that you or someone else in the group is the victim of sexual misconduct or sexual/gender-based harassment. Any crew member making good faith reports under this policy, or participating in investigation (internal or external) initiated under this policy, will be protected from retaliation for such reporting or participation.
 
 
 ### Conflicts of Interest and Abuses of Power
 
 Sexual, physically intimate, or romantic relationships have the potential to create conflicts of interest within the community of researchers involved in this project. This includes domestic partners and spouses, and other forms of pre-existing sexual or intimate relationships. Such relationships can create conflicts of interest in the context of the project when one individual has, or could reasonably expect to have, responsibility for supervising, directing, overseeing, evaluating, advising, or influencing the actions or educational status of the other. 
 
-	We are interested in creating a research environment marked by professional behavior, mutual respect, and fair treatment for all project participants. As such, we are concerned with the possible conflicts of interest that may result from intimate relationships, because such **conflicts of interest may lead to serious abuses of power, coercion, exploitation, favoritism, or unfair treatment of others**. Any relationship where one individual has power over the other has the potential to seriously affect morale and lead to an intolerable research environment. Further, even a romantic relationship that begins in a consensual way may become uncomfortable or nonconsensual, leading to sexual harassment or sexual misconduct. 
+We are interested in creating a research environment marked by professional behavior, mutual respect, and fair treatment for all project participants. As such, we are concerned with the possible conflicts of interest that may result from intimate relationships, because such **conflicts of interest may lead to serious abuses of power, coercion, exploitation, favoritism, or unfair treatment of others**. Any relationship where one individual has power over the other has the potential to seriously affect morale and lead to an intolerable research environment. Further, even a romantic relationship that begins in a consensual way may become uncomfortable or nonconsensual, leading to sexual harassment or sexual misconduct. 
 
 Given these issues with conflicts of interest arising from intimate relationships, we agree that: 
 
-
-
 1. **No crew member will solicit, initiate or enter into a sexual, physically intimate, or romantic relationship with any other crew member during the course of fieldwork and associated project activities.** 
 
-    We recognize that this is an especially strict prohibition, and we agree to it with the understanding that the research endeavor we are about to undertake will bring us into extreme conditions, of both physical hardship and close physical proximity, and that we will all need clear heads and professional conduct for this to be a successful research experience. We also agree to it recognizing the largely undiscussed history of fieldwork as a time when normal institutional rules and standards are relaxed or absent, which has led to a great deal of problematic relationships, nonconsensual sexual encounters, and undocumented harassment, particularly of female students and technicians. We are committed to changing that dynamic in our own fieldwork.
+   We recognize that this is an especially strict prohibition, and we agree to it with the understanding that the research endeavor we are about to undertake will bring us into extreme conditions, of both physical hardship and close physical proximity, and that we will all need clear heads and professional conduct for this to be a successful research experience. We also agree to it recognizing the largely undiscussed history of fieldwork as a time when normal institutional rules and standards are relaxed or absent, which has led to a great deal of problematic relationships, nonconsensual sexual encounters, and undocumented harassment, particularly of female students and technicians. We are committed to changing that dynamic in our own fieldwork.
 
+   Any relationship can take unexpected turns, but those that develop under the particular combination of isolation, physical and mental stress, and close proximity that result from fieldwork may be particularly likely to end uncomfortably. We recognize that in the close confines of fieldwork, it is often impossible to take space away from people, a frequent need for people coming out of an intimate relationship, even a short-lived one. Additionally, we acknowledge that under the particular conditions of fieldwork, where group members are isolated together for days to months, it can often be difficult to judge consent clearly, because decision-making may be altered by the particular social and physical conditions of fieldwork. These factors all lead us to accept the prohibition on new intimate relationships. 
 
-    Any relationship can take unexpected turns, but those that develop under the particular combination of isolation, physical and mental stress, and close proximity that result from fieldwork may be particularly likely to end uncomfortably. We recognize that in the close confines of fieldwork, it is often impossible to take space away from people, a frequent need for people coming out of an intimate relationship, even a short-lived one. Additionally, we acknowledge that under the particular conditions of fieldwork, where group members are isolated together for days to months, it can often be difficult to judge consent clearly, because decision-making may be altered by the particular social and physical conditions of fieldwork. These factors all lead us to accept the prohibition on new intimate relationships. 
-
-2. **Pre-existing relationships** **must be disclosed by the crew members to the project leadership**, before the start of fieldwork, so that appropriate arrangements can be made. Pre-existing relationships are intimate or romantic relationships that exist between crew members prior to the start of fieldwork and associated project activities. Appropriate arrangements are actions reasonably calculated to remove or mitigate known or potential conflicts of interest or abuses of power, taking into account the interests of the project, the parties in the relationship, and other crew members actually or potentially affected.
+2. **Pre-existing relationships must be disclosed by the crew members to the project leadership**, before the start of fieldwork, so that appropriate arrangements can be made. Pre-existing relationships are intimate or romantic relationships that exist between crew members prior to the start of fieldwork and associated project activities. Appropriate arrangements are actions reasonably calculated to remove or mitigate known or potential conflicts of interest or abuses of power, taking into account the interests of the project, the parties in the relationship, and other crew members actually or potentially affected.
 3. **Any suspected violations of this policy should be reported to the Ethics Officers** (see below, _Reporting Potential Violations_). Only the crew member with instructional, evaluative, formal advisory, supervisory, or other hierarchical authority or power is subject to sanction for violation of this policy. Any crew member making good faith reports under this policy, or participating in investigation (internal or external) initiated under this policy, will be protected from retaliation for such reporting or participation. 
 
 We expect all crew members to treat all other crew members with decorum and respect, regardless of pre-existing relationships and potential conflicts of interest. We recognize that, in the close confines and physically, mentally, and emotionally taxing environment of remote fieldwork, even the best of relationships may be strained. In the event of pre-existing relationships, Ethics Officers (see below) and project leadership will check in with all members of the relationship regularly, and determine if additional appropriate arrangements are necessary to avoid or mitigate any adverse effects such pre-existing relationships may have on moral, project success, and personal well-being of all involved.
@@ -189,77 +186,67 @@ We expect all crew members to treat all other crew members with decorum and resp
 
 Any crew member making good faith reports under this Code of Conduct, or participating in investigation (internal or external) initiated under this policy, will be protected from retaliation for such reporting or participation.
 
-
-
 1. Designation of Ethics Officers
 
-    The leadership of the group will **designate at least two people in the group as Ethics Officers** for the duration of the fieldwork and the project, and **ensure that everyone in the group is aware of who the Ethics Officers are**. Any suspected violations should be reported to one of these two people, who are the point people for reporting. 
+   The leadership of the group will **designate at least two people in the group as Ethics Officers** for the duration of the fieldwork and the project, and **ensure that everyone in the group is aware of who the Ethics Officers are**. Any suspected violations should be reported to one of these two people, who are the point people for reporting. 
 
-
-    The Ethics Officers should, ideally, be (a) from different institutions and (b) working on different aspects of the project. We recognize that it is unlikely that any group of field researchers will be able to identify two members of the group which have no overlap in spheres of influence, research communities, or circles of friendships. The two suggestions above are to ensure as little overlap as possible between the two (or more) Ethics Officers with respect to those with whom they have close relationships, either working or personal. Grant leadership should endeavor to designate Ethics Officers that will allow for anyone experiencing an ethical issue, such as sexual misconduct, to go to a person unconnected with the perpetrator. 
-
+   The Ethics Officers should, ideally, be (a) from different institutions and (b) working on different aspects of the project. We recognize that it is unlikely that any group of field researchers will be able to identify two members of the group which have no overlap in spheres of influence, research communities, or circles of friendships. The two suggestions above are to ensure as little overlap as possible between the two (or more) Ethics Officers with respect to those with whom they have close relationships, either working or personal. Grant leadership should endeavor to designate Ethics Officers that will allow for anyone experiencing an ethical issue, such as sexual misconduct, to go to a person unconnected with the perpetrator. 
 
     Ethics Officers: ________________________________________________________________
 
+2. Designation of Ethics Partner Institution
 
-    _____________________________________________________________________________
+   The project leadership, in coordination with the designated Ethics Officers, will determine one of the participating institutions to be the project’s Ethics Partner Institution. **All members of the project agree that the code of conduct and ethics-related policies of this institution will apply to all group members**. This includes governance and conduct of investigations, Title IX reporting actions, and all other aspects of ethics and conduct related policy. By designating an Ethics Partner Institution, we have the ability to clearly resolve complaints and allegations under a single unified set of policies. We also have the ability to draw upon the institutional infrastructure for unbiased investigation of ethics related complaints. 
 
-1. Designation of Ethics Partner Institution
-
-    The project leadership, in coordination with the designated Ethics Officers, will determine one of the participating institutions to be the project’s Ethics Partner Institution. **All members of the project agree that the code of conduct and ethics-related policies of this institution will apply to all group members**. This includes governance and conduct of investigations, Title IX reporting actions, and all other aspects of ethics and conduct related policy. By designating an Ethics Partner Institution, we have the ability to clearly resolve complaints and allegations under a single unified set of policies. We also have the ability to draw upon the institutional infrastructure for unbiased investigation of ethics related complaints. 
-
-
-    We do, however, recognize that the disciplinary policies of the Ethics Partner Institution will be difficult to apply in cases where group members belong to different institutions. We will work closely with all institutions involved to share findings from any investigations with relevant institutions, and ensure fair treatment of all, including appropriate consequences for offenders and protections for victims, regardless of their institutional homes.
+   We do, however, recognize that the disciplinary policies of the Ethics Partner Institution will be difficult to apply in cases where group members belong to different institutions. We will work closely with all institutions involved to share findings from any investigations with relevant institutions, and ensure fair treatment of all, including appropriate consequences for offenders and protections for victims, regardless of their institutional homes.
 
 
     Ethics Partner Institution: _________________________________________________________ 
 
-2. Retaliation
+3. Retaliation
 
-    **We prohibit retaliation against any individual who reports potential violations of this Code**, or the code of conduct or policies of the Ethics Partner Institution, or who participates in an investigation (either internal, external, or criminal) of such reports. Any attempt by a member of the group to intimidate, penalize, or threaten a person who reports or who is otherwise involved or cooperating in the investigation of a report of a potential violation is strictly prohibited. Any person found to have participated in an act of retaliation will be disciplined accordingly. 
+   **We prohibit retaliation against any individual who reports potential violations of this Code**, or the code of conduct or policies of the Ethics Partner Institution, or who participates in an investigation (either internal, external, or criminal) of such reports. Any attempt by a member of the group to intimidate, penalize, or threaten a person who reports or who is otherwise involved or cooperating in the investigation of a report of a potential violation is strictly prohibited. Any person found to have participated in an act of retaliation will be disciplined accordingly. 
 
-3. Investigation Process
+4. Investigation Process
 
-    Ethics Officers will report any instances of misconduct to the project leadership, unless the project leadership is involved in the complaint. Project leadership, in collaboration with the Ethics Officers, will initiate an investigation of the complaint, which begins with a conversation with the person bringing forward the complaint. As stated above, we are committed to a **victim-directed process**, which means honoring the desires of the victim. 
+   Ethics Officers will report any instances of misconduct to the project leadership, unless the project leadership is involved in the complaint. Project leadership, in collaboration with the Ethics Officers, will initiate an investigation of the complaint, which begins with a conversation with the person bringing forward the complaint. As stated above, we are committed to a **victim-directed process**, which means honoring the desires of the victim. 
 
+   The victim will have the choice of requesting an **internal** or **external** investigation. This is important, because there are both factors that lead victims of misconduct to desire reduced exposure and more ‘informal’ processes, and factors that lead such victims to desire more distant, impartial judgement of their situations, and the balance of these factors will be unique in each case. It is important for the victim to retain control of their process. 
 
-    The victim will have the choice of requesting an **internal** or **external** investigation. This is important, because there are both factors that lead victims of misconduct to desire reduced exposure and more ‘informal’ processes, and factors that lead such victims to desire more distant, impartial judgement of their situations, and the balance of these factors will be unique in each case. It is important for the victim to retain control of their process. 
+   1. **Internal Investigations** will be led by project leadership, or in cases where the project leadership is involved in the complaint, by the Ethics Officers. The leader of the investigation will attempt to determine the facts of the case through interviews with relevant parties, including members of the crew and staff of any facilities in use. The investigator will (1) maintain strict confidentiality during the investigation, (2) keep detailed, contemporaneous notes of all investigation steps, and (3) prepare a written report of findings after investigation is completed. Internal investigations will be completed in a timely manner. Report and contemporaneous notes will be submitted to the project leadership, unless they are involved in the complaint. See below for possible actions that may result from findings of such an investigation. 
 
-1. **Internal Investigations** will be led by project leadership, or in cases where the project leadership is involved in the complaint, by the Ethics Officers. The leader of the investigation will attempt to determine the facts of the case through interviews with relevant parties, including members of the crew and staff of any facilities in use. The investigator will (1) maintain strict confidentiality during the investigation, (2) keep detailed, contemporaneous notes of all investigation steps, and (3) prepare a written report of findings after investigation is completed. Internal investigations will be completed in a timely manner. Report and contemporaneous notes will be submitted to the project leadership, unless they are involved in the complaint. See below for possible actions that may result from findings of such an investigation. 
+   The victim may decide at any point in this process, up to and including after it is completed and the report has been prepared, that they would rather ask for an External Investigation. 
 
-        The victim may decide at any point in this process, up to and including after it is completed and the report has been prepared, that they would rather ask for an External Investigation. 
+   2. **External Investigations** will be undertaken in accordance with the policies and practices of the Ethics Partner Institution. Every effort will be made by the project leadership and Ethics Officers to maintain a victim-directed process, but the amount of control that the victim will have on the process will depend upon the policies of the Ethics Partner Institution. 
 
-2. **External Investigations** will be undertaken in accordance with the policies and practices of the Ethics Partner Institution. Every effort will be made by the project leadership and Ethics Officers to maintain a victim-directed process, but the amount of control that the victim will have on the process will depend upon the policies of the Ethics Partner Institution. 
+   Whether or not the victim can decide to cancel the external investigation in favor of an internal investigation will depend upon the policies of the Ethics Partner Institution. The Ethics Officers and project leadership should be sure to determine these policies at the time of selection of the Ethics Partner Institution. 
 
-        Whether or not the victim can decide to cancel the external investigation in favor of an internal investigation will depend upon the policies of the Ethics Partner Institution. The Ethics Officers and project leadership should be sure to determine these policies at the time of selection of the Ethics Partner Institution. 
-
-
-    Following from our core principles, any and all investigation procedures will strive to accomplish the following:
+Following from our core principles, any and all investigation procedures will strive to accomplish the following:
 
 *   The victim is shepherded through the process by Ethics Officers and project leadership who understand the procedures and “next steps” at each phase of the process;
 *   The victim is given as much control over timing and how to proceed through the process as possible;
 *   Victims are not re-traumatized — this includes ensuring that victims are not required to restate their story multiple times to multiple people; are not required to come face-to-face with the accused crew member; are not questioned directly by the accused crew member; and do not have their past sexual history considered by the Ethics Officer, project leadership, the authorities of the Ethics Partner Institution, etc.;
 *   The process is completed in a timely manner so that the victim does not have to “re-live” the trauma of the event for a prolonged period of time;
 *   The accused crew member may be removed or suspended during the course of investigation, either internal or external, if there is any evidence that the crew member is a continuing threat to the victim and/or other members of the crew;
-4. Outcomes and Sanctions 
+
+5. Outcomes and Sanctions 
 
     Outcomes from any conduct investigation should be focused on **supporting victims** and **preventing recurrence** of whatever the conduct issue was. Disciplinary sanctions are a useful tool towards these goals, and will be applied in a manner that prevents further misconduct, protects victims from re-traumatization, and is fair and appropriate to the findings of the investigation.
 
+   We recognize that, as an inter-institutional group of researchers, our authority to impose academic and professional sanctions is limited. Given these circumstances, however, we will administer outcomes and sanctions resulting from conduct investigations such that:
 
-    We recognize that, as an inter-institutional group of researchers, our authority to impose academic and professional sanctions is limited. Given these circumstances, however, we will administer outcomes and sanctions resulting from conduct investigations such that:
-
-1. All sanctions and outcomes are administered in a manner that is fair and appropriate to the findings of the investigations;
-2. When appropriate, sanctions may include, but not be limited to: 
-    1. Official reprimand; 
-    2. Demotion in author lists and other forms of professional recognition for participation in the project;
-    3. Creation of channels of communication and collaboration that allow for professional isolation between victim and perpetrator; 
-    4. Orders of no contact between victim and perpetrator; 
-    5. Removal from project leadership position or other position of authority within the project; 
-    6. Removal from the project entirely;
-    7. Prohibition from future collaboration with other project participants, for durations up to and including life.
-3. Any crew member found to be responsible for attempted or completed sexual misconduct will have a comprehensive report of the incident sent to their home institution and supervisor, and all efforts will be made to ensure that this report is available to all relevant parties, including potential employers and transfer institutions. It will, however, be up to the home institution if additional disciplinary sanctions will be applied outside of the context of the project. 
-4. Additionally, any recommendation or reference from the project leadership for participants found to be responsible for attempted or completed sexual misconduct will be accompanied by this report. 
-5. Where the sanctions and consequences imposed by the project leadership does not satisfy the victim, the project leadership will make every effort to help the victim seek outside recourse and locate a channel for their complaints with the ability to help find a path forward for the victim, including initiation of external investigation through the Ethics Partner Institution, outside mediation or arbitration, and/or the initiation of legal proceeding. 
+   1. All sanctions and outcomes are administered in a manner that is fair and appropriate to the findings of the investigations;
+   2. When appropriate, sanctions may include, but not be limited to: 
+      1. Official reprimand; 
+      2. Demotion in author lists and other forms of professional recognition for participation in the project;
+      3. Creation of channels of communication and collaboration that allow for professional isolation between victim and perpetrator; 
+      4. Orders of no contact between victim and perpetrator; 
+      5. Removal from project leadership position or other position of authority within the project; 
+      6. Removal from the project entirely;
+      7. Prohibition from future collaboration with other project participants, for durations up to and including life.
+   3. Any crew member found to be responsible for attempted or completed sexual misconduct will have a comprehensive report of the incident sent to their home institution and supervisor, and all efforts will be made to ensure that this report is available to all relevant parties, including potential employers and transfer institutions. It will, however, be up to the home institution if additional disciplinary sanctions will be applied outside of the context of the project. 
+   4. Additionally, any recommendation or reference from the project leadership for participants found to be responsible for attempted or completed sexual misconduct will be accompanied by this report. 
+   5. Where the sanctions and consequences imposed by the project leadership does not satisfy the victim, the project leadership will make every effort to help the victim seek outside recourse and locate a channel for their complaints with the ability to help find a path forward for the victim, including initiation of external investigation through the Ethics Partner Institution, outside mediation or arbitration, and/or the initiation of legal proceeding. 
 
 
 ## Agreement
