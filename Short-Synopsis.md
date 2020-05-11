@@ -24,7 +24,7 @@ We will not tolerate **any form of harassment** or **sexual misconduct**. There 
 
 ## Important Policies
 
-This list is _non-exhaustive_ but covers the most important parts. Please read the full Code.
+This list is _non-exhaustive_ but covers the most important parts. Please read the [full Code](https://github.com/werdnus/code-of-conduct/blob/master/Code-of-Conduct.md).
 
 1. **Treat everyone with respect**, including respecting gender identity and expression.
 2. Any human **subjects research must be approved** by an OHRP recognized Institutional Review Board (IRB). 
