@@ -41,6 +41,5 @@ Paulette Goyes, Jessica Grant, Araya Jensen, Patty Kaishian, Elisa Levy, Tobias 
 We have released this document as open-access, under the GNU General Public License Version 3.0, which means that you can download it and use it as you see fit. If you want to republish an changed or improved version, please do, but remember to cite the original release, so that others who may find it useful are able to access it, and please release your new version under the same terms. 
 
 Please cite this Code of Conduct as: 
-```
-Paulette Goyes, Jessica Grant, Araya Jensen, Patty Kaishian, Elisa Levy, Tobias Policha, & Roo Vandegrift (2020). Code of Conduct for Inter-Institutional Fieldwork (Version v1.0.0). Zenodo. http://doi.org/10.XXXX/zenodo.XXXXXXX
-```
+
+>Paulette Goyes, Jessica Grant, Araya Jensen, Patty Kaishian, Elisa Levy, Tobias Policha, & Roo Vandegrift (2020). Code of Conduct for Inter-Institutional Fieldwork (Version v1.0.0). Zenodo. http://doi.org/10.XXXX/zenodo.XXXXXXX
