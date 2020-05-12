@@ -1,4 +1,4 @@
-## _What is this document?_  
+## What is this document? 
 This document is a [Code of Conduct](Code-of-Conduct.md), intended to help groups of researchers coming from a wide range of institutions to have a common framework for ethics and conduct while working together in the field; it also includes [instructions for use](README.md) (this document), and a [short synopsis](Short-Synopsis.md) to make it easier to understand. Many fieldwork experiences are organized across institutions, may include members that are not affiliated with any particular institution, and are funded from multiple sources. All of this can lead to ambiguity in, or outright lack of, any unifying code of conduct for such groups of researchers. **This document seeks to provide an open-access solution to this problem.** 
 
 This document exists because the authors experienced a situation where a group of researchers working together in a remote field location had need of such a document, and did not have one. We believe it is with the best of intentions that inter-disciplinary and inter-institutional researchers plan field work, expecting friendship, respect, and logic to be sufficient for inter-personal conflict resolution. While admirable in sentiment, this often-unconscious reliance on expectations of reasonable behavior puts the entire group at risk — at risk of misconduct from even just a single group member, and at risk of extreme legal and research consequences in the aftermath of such misconduct when there is not a clear path forward towards resolution. The authors of this document have experienced an example of such a situation and have prepared this document in the hopes that it can help to prevent such situations from arising in the future. 
@@ -12,7 +12,7 @@ We provide here a Code of Conduct, which:
 
 Providing such clear guiding principles and instructions helps to **ensure that breaches of conduct do not happen in the first place.** We provide this Code not as a prescriptive document, but as a tool, to be shaped and crafted by each group of researchers to fit the individual needs of their particular project and group. 
 
-## _How is this document used?_
+## How is this document used?
 We have endeavored to write this document in a way that is as broadly applicable as possible: you may be able to simply download it and use it without modification. However, that is not the core intent. **We hope that this document will serve as a framework, to be modified and built upon.**
 
 During the planning stages of any inter-institutional fieldwork, the leadership of the project should carefully consider conduct and ethical issues. What problems might arise? How will they be dealt with, if they do? How can we prevent them from happening in the first place? 
@@ -32,3 +32,15 @@ Any group interested in using this document should carefully consider the entire
 4. In the **[Conflicts of Interest and Abuses of Power](Code-of-Conduct.md#conflicts-of-interest-and-abuses-of-power)** section, we have made the decision to explicitly forbid the formation of new intimate relationships between members of the group, regardless of hierarchical relationships and other power dynamics between them. During fieldwork settings, emotional and physical stresses are exaggerated, group members are often isolated for some length of time, social dynamics may be altered from typical academic settings. In the field, there is often both a relaxing of hierarchical relationships (e.g., students and supervisors may relate more as equals) concurrent with a narrowing of hierarchical structures (e.g., a student may have no other administrative authority than the mentor with whom they are in the field). Given these complicating factors, we have judged that field relationships are inadvisable, because consent may be difficult to assess and formal and informal hierarchical dynamics may be difficult to untangle, leading to conflicts of interest and potential abuses of power. 
 
    As with the prohibition on alcohol, some may feel that this provision is overly strict, and desire to change it. If you do, we recommend also amending the **[Definitions](Code-of-Conduct.md#definitions)** section, or adding an additional section, which clearly delineates the hierarchical relationships in the group before the start of fieldwork. Who counts as a student, versus a volunteer? Who is in charge of overseeing whom? It may also be advisable to expand the **[Conflicts of Interest and Abuses of Power](Code-of-Conduct.md#conflicts-of-interest-and-abuses-of-power)** section to explicitly provide provisions for such newly formed relationships, and guidelines for professional conduct.
+   
+## Who wrote this document? 
+This document was prepared by a group researchers engaged in inter-institutional fieldwork in a remote setting, who had need of such a document, but did not have one. We are (alphabetically): 
+
+Paulette Goyes, Jessica Grant, Araya Jensen, Patty Kaishian, Elisa Levy, Tobias Policha, and Roo Vandegrift
+
+We have released this document as open-access, under the GNU General Public License Version 3.0, which means that you can download it and use it as you see fit. If you want to republish an changed or improved version, please do, but remember to cite the original release, so that others who may find it useful are able to access it, and please release your new version under the same terms. 
+
+Please cite this Code of Conduct as: 
+```
+Paulette Goyes, Jessica Grant, Araya Jensen, Patty Kaishian, Elisa Levy, Tobias Policha, & Roo Vandegrift (2020). Code of Conduct for Inter-Institutional Fieldwork (Version v1.0.0). Zenodo. http://doi.org/10.XXXX/zenodo.XXXXXXX
+```
